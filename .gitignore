@@ -1,3 +1,12 @@
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# dependencies
+/node_modules
+
 # Dependency directories
 node_modules/
 jspm_packages/
